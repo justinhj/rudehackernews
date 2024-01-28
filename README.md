@@ -2,6 +2,15 @@
 
 ## Uses openai api to rewrite Hacker News headlines rudely. lmao.
 
+Usage:
+
+Set your OpenAI key in the environment `OPENAI_API_KEY`
+
+``` zsh
+npm install
+npm run run
+```
+
 Example output:
 
 1. Show HN: Apple II clock using interrupts from physical pendulum clock - https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md

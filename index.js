@@ -1,12 +1,13 @@
 import OpenAI from "openai";
 import { extract } from '@extractus/article-extractor'
 import { stripHtml } from "string-strip-html";
+import pThrottle from "p-throttle"
 
 const openai = new OpenAI();
 
-const FRONT_PAGE_ITEMS = 10;
+const FRONT_PAGE_ITEMS = 30;
 const HACKER_NEWS_URL = 'https://hacker-news.firebaseio.com/v0';
-const MAX_WORDS = 1000;
+const MAX_WORDS = 2000;
 
 async function fetchTopStories() {
   const response = await fetch(`${HACKER_NEWS_URL}/topstories.json`);
@@ -37,6 +38,13 @@ async function generateImprovedHeadline(title, content) {
 
 async function main() {
 
+  const throttler = pThrottle({
+    limit: 1,
+    interval: 5000
+  });
+
+  let throttled = throttler(generateImprovedHeadline);
+
   let top = await fetchTopStories();
 
   // Fetch each item in top
@@ -52,7 +60,7 @@ async function main() {
         let truncated = stripped.substring(0, MAX_WORDS);
         // console.log(`Article length after stripping: ${truncated.length}`);
         // console.log(truncated);
-        let headline = await generateImprovedHeadline(item.title, truncated);
+        let headline = await throttled(item.title, truncated);
         return {
           title: item.title,
           url: item.url,

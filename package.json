@@ -25,6 +25,7 @@
   "dependencies": {
     "@extractus/article-extractor": "^8.0.5",
     "openai": "^4.26.0",
+    "p-throttle": "^6.1.0",
     "string-strip-html": "^13.4.5"
   }
 }

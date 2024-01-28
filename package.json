@@ -1,0 +1,30 @@
+{
+  "name": "rudehackernews",
+  "version": "1.0.0",
+  "description": "Rewriting the Hacker News page to be more rude",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinhj/rudehackernews.git"
+  },
+  "keywords": [
+    "openai",
+    "rude"
+  ],
+  "author": "Justin Heyes-Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinhj/rudehackernews/issues"
+  },
+  "homepage": "https://github.com/justinhj/rudehackernews#readme",
+  "dependencies": {
+    "@extractus/article-extractor": "^8.0.5",
+    "openai": "^4.26.0",
+    "string-strip-html": "^13.4.5"
+  }
+}

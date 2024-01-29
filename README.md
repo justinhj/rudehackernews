@@ -11,7 +11,68 @@ npm install
 npm run run
 ```
 
-Example output:
+Example outputs:
+
+1. Ruby's Exceptional Creatures - https://www.exceptionalcreatures.com/
+   "Ruby's Laughable Pests: Errors that Ruin Your Day and Test Your Sanity!"
+2. I need to grow away from these roots - https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/
+   "Watch Me Play Musical Chairs with Chords Using A Raspberry Pi and LED Strips!"
+3. Two handy GDB breakpoint tricks - https://nullprogram.com/blog/2024/01/28/
+   No article content :(
+4. I looked through attacks in my access logs - https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/
+   "Self-Hosting Journey: Nose-Diving into Access Logs, Dodging Attacks & Censoring Bad Words...When Will the Real Job Start?"
+5. General purpose MCUs built in to LEDs emulate candle flicker - https://cpldcpu.wordpress.com/2024/01/14/revisiting-candle-flicker-leds-now-with-integrated-timer/
+   "Congrats, You Dweebs: Now Your Fake Candles Can Fake Turn Off Too!"
+6. The Articulation Barrier: Prompt-Driven AI UX Hurts Usability - https://www.uxtigers.com/post/ai-articulation-barrier
+   'Only Shakespeare's Lovechild Can Get Results: Fancy AI Falls Flat for Basic Babblers'
+7. Milwaukee reporter investigates cousin's 1978 car bombing death - https://www.jsonline.com/story/news/investigations/2024/01/17/milwaukee-reporter-investigates-cousins-1978-car-bombing-death/71883074007/
+   "Dedicated Milwaukee Snoop Delights in Rehashing Decades-Old Family Drama"
+8. Show HN: Apple II clock using interrupts from physical pendulum clock - https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md
+   No article content :(
+9. Multi-database support in DuckDB - https://duckdb.org/2024/01/26/multi-database-support-in-duckdb.html
+   "DuckDB Plays Fetch with MySQL, Postgres, and SQLite: Database Poodle Now Multilingual!"
+10. A Historical Tour of Silicon Valley (2010) - https://www.scaruffi.com/svhistory/svtour.html
+   "Relive the Glory of 2010's Silicon Valley through a Mediocre Photo Tour"
+11. Variable Fonts - https://v-fonts.com/
+   "Because Boring Static Fonts Just Weren't Enough: The Pretentious World of Variable Fonts"
+12. Hell is other people: performance management at Big Tech - https://lcamtuf.substack.com/p/hell-is-other-people-performance
+   "Giant Tech Firms' Performance Management: It's Not a Meritocracy, It's a Nerdocracy!"
+13. The Rest Is Silliness: Peter Schickele and PDQ Bach remembered - https://van-magazine.com/mag/peter-schickele-pdq-bach/
+   "Hack Musical Comedy: The Forgotten Era of Peter Schickele and PDQ Bach's Ludicrous Melodies"
+14. When the "R" goes missing from R&D (2021) - https://madned.substack.com/p/when-the-r-goes-missing-from-r-and
+   'Devastating reality of 'Dumbo & Decoy' team with a fake R in R&D (2021)'
+15. Law for Computer Scientists (2020) - https://lawforcomputerscientists.pubpub.org/
+   "Law for Computer Geeks: A Snore-Fest of Legal Lessons No One Asked For (2020)"
+16. The Plot Against Einstein - https://warfarehistorynetwork.com/article/the-plot-against-einstein/
+   "Einstein Begrudgingly Made To Sing For His Supper"
+17. The missing apex of Maslow's hierarchy: self-transcendence - https://bigthink.com/personal-growth/the-missing-apex-of-maslows-hierarchy-could-save-us-all/
+   "Maslow's Pyramid Scheme: Now Comes with Some New-Age, Feel-Good BS on Top"
+18. Breaking SecuROM 7 – A Dissection - https://lostfilearchives.github.io/08/28/Dissection/
+   "Thumbing Their Noses at Ancient SecuROM 7 – Overcomplicated Waste of Time Dissected with Outdated Tools"
+19. Easy-to-Use Apple Vision wrapper for text extraction and clustering - https://pypi.org/project/apple-ocr/
+   "'Revolutionary' Apple Wrapper Basically Just Repackages Existing OCR Tech for Clueless Users"
+20. Confirmation of ancient lake on Mars - https://phys.org/news/2024-01-ancient-lake-mars-perseverance-rover.html
+   "Big Woop, Perseverance Found Some Old Martian Lake Sediment"
+21. In loving memory of square checkbox - https://tonsky.me/blog/checkbox/
+   "Say Goodbye to 'Boring' Square Checkboxes: the Internet Has Other Plans"
+22. New GitHub Copilot research finds 'downward pressure on code quality' - https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx
+   "New Research Shows GitHub Copilot Making a Mess of Code Quality Like a Disorganized Intern"
+23. Show HN: 12-colored visual interactive music theory for pop/rock MIDI (+Github) - https://rawl.rocks/
+   No article content :(
+24. Can Earthquakes Be Predicted? (2022) - https://heritageproject.caltech.edu/interviews-updates/robert-geller
+   'Predicting Earthquakes? More Like Predicting Your Broken Dreams. ' (2022)
+25. Ask HN: Those who've joined a friend's startup as an employee, how did that go? - undefined
+   Not a story
+26. Ask HN: How to deploy money effectively to save time and build a business? - undefined
+   Not a story
+27. Some mathematical aspects of cryptography (1941) - https://celebratio.org/Albert_AA/article/455/
+   "Groundbreaking 1941 Revelation: There's Math Involved in Cryptography!"
+28. Michael Lewis's Blind Side - https://asteriskmag.com/issues/05/michael-lewis-s-blind-side
+   "Michael Lewis: Chasing Myths Over Math in 'Going Dumb-Finite'"
+29. How the FBI targeted Camus, and then Sartre after the JFK assassination (2013) - https://www.openculture.com/2013/11/the-existentialism-files-how-the-fbi-targeted-camus-and-sartre.html
+   "FBI's laughable paranoia: French philosophers implicated in JFK's death (2013)"
+30. Show HN: Librarian - Semantic Bookmark Search Using Transformers - https://github.com/oto-labs/librarian
+   "Show HN: Useless 'Librarian' Code Toy - Overhyped Bookmark Search With Transformers"
 
 1. Show HN: Apple II clock using interrupts from physical pendulum clock - https://github.com/wkjagt/apple2_pendulum_clock/blob/main/README.md
    No article content :(

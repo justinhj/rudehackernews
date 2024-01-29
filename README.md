@@ -13,6 +13,8 @@ npm run run
 
 Example outputs:
 
+_Format is Hacker News rank, the original headline, the URL and the new rude headline._
+
 1. Ruby's Exceptional Creatures - https://www.exceptionalcreatures.com/
    "Ruby's Laughable Pests: Errors that Ruin Your Day and Test Your Sanity!"
 2. I need to grow away from these roots - https://www.vitling.xyz/i-need-to-grow-away-from-these-roots/
